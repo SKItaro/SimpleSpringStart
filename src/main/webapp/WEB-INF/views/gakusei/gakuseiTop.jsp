@@ -7,8 +7,22 @@
 <title>Home</title>
 <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+
+<script>
+  $(function() {
+
+	  //今日の東京の天気を取得して画面に反映する。
+	  $(document).ready(function(){
+	  });
+
+  });
+</script>
+
+
+
 <link rel="stylesheet"
 	href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
 </head>
 
 <body>
